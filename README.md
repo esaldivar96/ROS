@@ -1,2 +1,2 @@
 # ROS
-Different ROS packages
+Different ROS packages utilized in BS mechatronics senior project.
